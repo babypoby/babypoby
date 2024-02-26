@@ -1,6 +1,6 @@
-### Hi👋
+### Hi🐛
 
-I'm Tae
+I'm Tae :)
 
 ⭐️ Pronouns: she/her\
 ☕️ I'm studying CS at ETH Zürich\
